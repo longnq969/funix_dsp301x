@@ -15,8 +15,12 @@ pip install jupyter numpy pandas
 ## Usage
 
 ```python
-python abc.py
+python DSP301x_asm2_longnqxM01957@funix.edu.vn
 ```
+
+The program will prompt for file name to be processed: e.g class1.txt
+
+To quit program, input 'q'.
 
 ## Contributing
 
