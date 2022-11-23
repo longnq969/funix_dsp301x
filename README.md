@@ -15,7 +15,7 @@ pip install jupyter numpy pandas
 ## Usage
 
 ```python
-python DSP301x_asm2_longnqxM01957@funix.edu.vn
+python nguyen_long_grade_the_examps.py
 ```
 
 The program will prompt for file name to be processed: e.g class1.txt
